@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.header-title{
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.list-add{
+    width: 80%;
+    height: 500px;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+}
